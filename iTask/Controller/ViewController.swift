@@ -24,6 +24,7 @@ class ViewController: UIViewController {
        super.viewDidLoad()
        
         self.initialConfig()
+     
         
     }
     private func initialConfig(){
