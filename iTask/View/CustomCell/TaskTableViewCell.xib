@@ -21,8 +21,8 @@
                         <rect key="frame" x="10" y="10" width="1497" height="39"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ir a academia" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fWo-3M-5Me">
-                                <rect key="frame" x="30" y="14" width="83" height="11"/>
-                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="12"/>
+                                <rect key="frame" x="30" y="14" width="100.5" height="11"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="15"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -31,7 +31,7 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </view>
                         </subviews>
-                        <color key="backgroundColor" red="0.92549019607843142" green="0.38039215686274508" blue="0.16470588235294117" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.52549019607843139" green="0.36862745098039218" blue="0.38823529411764707" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstAttribute="bottom" secondItem="fWo-3M-5Me" secondAttribute="bottom" constant="14" id="6ti-BQ-e7n"/>
                             <constraint firstAttribute="bottom" secondItem="QA1-jH-Xlb" secondAttribute="bottom" constant="8" id="848-va-OS5"/>
@@ -48,7 +48,7 @@
                         </userDefinedRuntimeAttributes>
                     </view>
                 </subviews>
-                <color key="backgroundColor" red="0.1529411765" green="0.25490196079999999" blue="0.47843137250000001" alpha="1" colorSpace="calibratedRGB"/>
+                <color key="backgroundColor" red="0.66666666666666663" green="0.61960784313725492" blue="0.62352941176470589" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                 <constraints>
                     <constraint firstItem="2iU-AC-UCa" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="LiF-fx-evn"/>
                     <constraint firstAttribute="bottom" secondItem="2iU-AC-UCa" secondAttribute="bottom" constant="10" id="Xu7-Cn-FWK"/>

@@ -52,6 +52,7 @@ class Checkbox: UIControl {
     backgroundColor = UIColor.clear
     
     addTarget(self, action: #selector(touchUpInside), for: .touchUpInside)
+      self.imageView.tintColor = UIColor(red: 134.0, green: 94.0, blue: 99.0, alpha: 1.0)
   }
   
   @objc func touchUpInside() {
