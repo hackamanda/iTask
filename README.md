@@ -1,6 +1,8 @@
 # iTask
 ### Minha primeira experiência desenvolvendo um aplicativo do zero sem seguir um tutorial :)
 
+<img src="https://imgkub.com/images/2022/07/15/Captura-de-Tela-2022-07-15-as-12.11.25.png" alt="Captura-de-Tela-2022-07-15-as-12.11.25.png" border="0">
+
 ## Sobre o aplicativo
 Criar novos hábitos saudáveis nem sempre é tão fácil, né?
 
@@ -17,8 +19,9 @@ Começar a criar um novo hábito saudável nunca foi tão fácil!
 
 Este aplicativo ainda está em desenvolvimento, estou melhorando e adicionando novas features conforme estudo e aprendo novas ferramentas
 
-- Swift e UIKit
-- <b>Arquitetura MVVM</b>
-- <b>Testes unitários</b>
-- Gerenciador de dependências Cocoapods
-- Alamofire para requisições API
+- <b>Swift e UIKit</b>
+- <b> Programação Orientada a Objetos</b>
+- <b>Arquitetura MVC</b>
+- Autolayout com xib, Storyboard
+- Versionamento com GIT
+
